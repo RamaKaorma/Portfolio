@@ -1,0 +1,12 @@
+To open sanity backend:
+    1. Go into `backend`
+    2. Run `npm run dev`
+    3. Sanity management tool should open instantly
+
+
+To open the react app:
+    1. Go into `frontend`
+    2. Run `npm run dev`
+    3. The portfolio should open instantly
+
+On Netlify, the `dist` directory in `frontend` was uploaded to deploy the website.
